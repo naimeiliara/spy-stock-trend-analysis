@@ -33,9 +33,12 @@ To assess whether historical price patterns and risk metrics can provide meaning
 - Forecasting methods are intentionally simple and should not be interpreted as investment advice.
 - Transaction costs, dividends, and taxes are excluded.
 
-## Project Structure
-
 ## Author
 Nenyoratah Teveli
 
 *This project was completed as part of a personal data analytics portfolio.*
+
+## Project Structure
+data/  
+notebooks/  
+visuals/
