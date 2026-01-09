@@ -35,3 +35,7 @@ To assess whether historical price patterns and risk metrics can provide meaning
 
 ## Project Structure
 
+## Author
+Nenyoratah Teveli
+
+*This project was completed as part of a personal data analytics portfolio.*
